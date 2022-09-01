@@ -1,0 +1,1204 @@
+
+
+ state=100,action=20, discount factor=0.9, uncertainty radius=0.1,number of iterations =100
+
+
+Evaluation of non-robust starts for time measurement 
+
+Total time taken by non-robust MDP  is 1.2766196727752686, relative cost 1 
+
+non-robust: Average distance of last 10 iterates from last one = 0.0003724215785506857, ROC 0.8937922950245346 
+
+Total time taken by sa-rectangular L_1 MDP  is 1.8550584316253662,  relative cost 1.4531018683055528 
+
+sa_1: Average distance of last 10 iterates from last one = 0.00033022481871682887, ROC =0.8936812101710211
+
+
+Total time taken by sa-rectangular L_2 MDP  is 2.0310707092285156,  relative cost 1.590975568168342 
+
+sa_2: Average distance of last 10 iterates from last one = 0.0002640615708056515, ROC =0.8935558184260195
+
+
+Total time taken by sa-rectangular L_3 MDP  is 5.290401458740234,  relative cost 4.144070134247052 
+
+sa_3: Average distance of last 10 iterates from last one = 0.0001771356835219784, ROC =0.8932260752746498
+
+
+Total time taken by sa-rectangular L_4 MDP  is 6.481236696243286,  relative cost 5.076873586127338 
+
+sa_4: Average distance of last 10 iterates from last one = 0.00010013497440675145, ROC =0.8924530129682773
+
+
+Total time taken by sa-rectangular L_5 MDP  is 5.1895058155059814,  relative cost 4.065036695090569 
+
+sa_5: Average distance of last 10 iterates from last one = 3.506572891320281e-05, ROC =0.8896067445559699
+
+
+Total time taken by sa-rectangular L_6 MDP  is 4.3122944831848145,  relative cost 3.377900697558759 
+
+sa_6: Average distance of last 10 iterates from last one = 2.0208838055824075e-05, ROC =0.8793419533708715
+
+
+Total time taken by sa-rectangular L_7 MDP  is 4.0423619747161865,  relative cost 3.1664575291468102 
+
+sa_7: Average distance of last 10 iterates from last one = 6.782371746254512e-05, ROC =0.887239474920134
+
+
+Total time taken by sa-rectangular L_8 MDP  is 3.9297499656677246,  relative cost 3.07824644212537 
+
+sa_8: Average distance of last 10 iterates from last one = 0.00010930423614903262, ROC =0.8894498827923525
+
+
+Total time taken by sa-rectangular L_9 MDP  is 4.022253513336182,  relative cost 3.150706196303654 
+
+sa_9: Average distance of last 10 iterates from last one = 0.00014550158181743101, ROC =0.8905255449916455
+
+
+Total time taken by sa-rectangular L_10 MDP  is 4.162554502487183,  relative cost 3.260606577868351 
+
+sa_10: Average distance of last 10 iterates from last one = 0.00017727252385970615, ROC =0.891167987892473
+
+
+Total time taken by sa-rectangular L_inf MDP  is 2.027230978012085,  relative cost 1.5879678350914395 
+
+sa_inf: Average distance of last 10 iterates from last one = 0.0003591465973098451, ROC =0.8923225032028185
+
+
+
+
+
+ Summary of time and relative Time
+
+
+non-robust time = 1.2766196727752686,  sa-rect time [1.85505843 2.03107071 5.29040146 6.4812367  5.18950582 4.31229448
+ 4.04236197 3.92974997 4.02225351 4.1625545  2.02723098] 
+
+Relative time of sa -rect w.r.t non robust = [1.85505843 2.03107071 5.29040146 6.4812367  5.18950582 4.31229448
+ 4.04236197 3.92974997 4.02225351 4.1625545  2.02723098] 
+
+
+
+
+Total time taken by s-rectangular L_1 MDP  is 1.4884612560272217,  relative cost 1.1659394632321674 
+
+s_1: Average distance of last 10 iterates from last one = 0.0003349906860620422, ROC=0.8936979051140391
+
+
+Total time taken by s-rectangular L_2 MDP  is 2.7940354347229004,  relative cost 2.1886200677519656 
+
+s_2: Average distance of last 10 iterates from last one = 0.000280211598975022, ROC=0.8936068377057538
+
+
+Total time taken by s-rectangular L_3 MDP  is 47.00856065750122,  relative cost 36.82268232269082 
+
+s_3: Average distance of last 10 iterates from last one = 0.0002114415377192813, ROC=0.8933978321234973
+
+
+Total time taken by s-rectangular L_4 MDP  is 52.77779459953308,  relative cost 41.34183087183546 
+
+s_4: Average distance of last 10 iterates from last one = 0.00014871906641102938, ROC=0.893027947064569
+
+
+Total time taken by s-rectangular L_5 MDP  is 52.629634857177734,  relative cost 41.22577458231169 
+
+s_5: Average distance of last 10 iterates from last one = 9.220394636573203e-05, ROC=0.8922588844667854
+
+
+Total time taken by s-rectangular L_6 MDP  is 52.16989088058472,  relative cost 40.86564855073208 
+
+s_6: Average distance of last 10 iterates from last one = 4.085369143573825e-05, ROC=0.8899943666738317
+
+
+Total time taken by s-rectangular L_7 MDP  is 51.63939666748047,  relative cost 40.45010253932604 
+
+s_7: Average distance of last 10 iterates from last one = 6.21150560500272e-06, ROC=0.8699599412547142
+
+
+Total time taken by s-rectangular L_8 MDP  is 50.240530490875244,  relative cost 39.354344572848674 
+
+s_8: Average distance of last 10 iterates from last one = 4.914976330852028e-05, ROC=0.885826819518622
+
+
+Total time taken by s-rectangular L_9 MDP  is 52.068867683410645,  relative cost 40.78651519619552 
+
+s_9: Average distance of last 10 iterates from last one = 9.74633728392682e-05, ROC=0.8896914261203223
+
+
+Total time taken by s-rectangular L_10 MDP  is 52.47987341880798,  relative cost 41.1084636544265 
+
+s_10: Average distance of last 10 iterates from last one = 0.00012306355881124275, ROC=0.8901760339296533
+
+
+Total time taken by s-rectangular L_inf MDP  is 1.9256658554077148,  relative cost 1.5084099802578415 
+
+s_inf: Average distance of last 10 iterates from last one = 0.0003591465973098451, ROC=0.8923225032028185
+
+
+
+
+
+ Summary of time and relative Time
+
+
+Relative time of s -rect w.r.t non robust = [ 1.16593946  2.18862007 36.82268232 41.34183087 41.22577458 40.86564855
+ 40.45010254 39.35434457 40.7865152  41.10846365  1.50840998] 
+
+
+Relative time of sa -rect w.r.t non robust = [1.45310187 1.59097557 4.14407013 5.07687359 4.0650367  3.3779007
+ 3.16645753 3.07824644 3.1507062  3.26060658 1.58796784] 
+
+
+
+
+Relative roc of s -rect w.r.t non robust = [0.99989439 0.99979251 0.99955866 0.99914483 0.99828438 0.99575077
+ 0.97333569 0.991088   0.99541183 0.99595403 0.99835556] 
+
+
+Relative roc of sa -rect w.r.t non robust = [0.99987572 0.99973542 0.9993665  0.99850157 0.99531709 0.98383255
+ 0.99266852 0.99514159 0.99634507 0.99706385 0.99835556] 
+
+
+
+
+
+
+
+
+
+
+
+ NEW EXPERIMENT 
+
+
+
+
+ state=100,action=10, discount factor=0.9, uncertainty radius=0.1,number of iterations =100
+
+
+Evaluation of non-robust starts for time measurement 
+
+Total time taken by non-robust MDP  is 1.5236577987670898, relative cost 1 
+
+non-robust: Average distance of last 10 iterates from last one = 0.00030115284521770036, ROC 0.8926196725174101 
+
+Total time taken by sa-rectangular L_1 MDP  is 1.0101244449615479,  relative cost 0.6629601776586043 
+
+sa_1: Average distance of last 10 iterates from last one = 0.00025907092931873874, ROC =0.8923398660787418
+
+
+Total time taken by sa-rectangular L_2 MDP  is 1.045708179473877,  relative cost 0.686314328794852 
+
+sa_2: Average distance of last 10 iterates from last one = 0.00018884831566374772, ROC =0.8917401106609875
+
+
+Total time taken by sa-rectangular L_3 MDP  is 3.757765769958496,  relative cost 2.4662793528830402 
+
+sa_3: Average distance of last 10 iterates from last one = 9.705932754835444e-05, ROC =0.8898696110689421
+
+
+Total time taken by sa-rectangular L_4 MDP  is 3.727560520172119,  relative cost 2.446455183826958 
+
+sa_4: Average distance of last 10 iterates from last one = 1.5018729387483721e-05, ROC =0.8791837117692487
+
+
+Total time taken by sa-rectangular L_5 MDP  is 4.357870817184448,  relative cost 2.860137506407765 
+
+sa_5: Average distance of last 10 iterates from last one = 5.427757923150978e-05, ROC =0.8859963832328213
+
+
+Total time taken by sa-rectangular L_6 MDP  is 3.2177035808563232,  relative cost 2.1118282487445788 
+
+sa_6: Average distance of last 10 iterates from last one = 0.00011245902401935126, ROC =0.8894658871623332
+
+
+Total time taken by sa-rectangular L_7 MDP  is 3.5099356174468994,  relative cost 2.3036246198372505 
+
+sa_7: Average distance of last 10 iterates from last one = 0.00016187897002684082, ROC =0.8907397361838683
+
+
+Total time taken by sa-rectangular L_8 MDP  is 3.398524761199951,  relative cost 2.230503964833811 
+
+sa_8: Average distance of last 10 iterates from last one = 0.00020396136971161382, ROC =0.8914034021251913
+
+
+Total time taken by sa-rectangular L_9 MDP  is 3.2984273433685303,  relative cost 2.1648084931127873 
+
+sa_9: Average distance of last 10 iterates from last one = 0.0002406906524813124, ROC =0.8918204850400728
+
+
+Total time taken by sa-rectangular L_10 MDP  is 3.2942967414855957,  relative cost 2.1620975156962854 
+
+sa_10: Average distance of last 10 iterates from last one = 0.00027286667959973697, ROC =0.8921077236067336
+
+
+Total time taken by sa-rectangular L_inf MDP  is 1.0692739486694336,  relative cost 0.7017809048295925 
+
+sa_inf: Average distance of last 10 iterates from last one = 0.00046273948057873326, ROC =0.8926929540862792
+
+
+
+
+
+ Summary of time and relative Time
+
+
+non-robust time = 1.5236577987670898,  sa-rect time [1.01012444 1.04570818 3.75776577 3.72756052 4.35787082 3.21770358
+ 3.50993562 3.39852476 3.29842734 3.29429674 1.06927395] 
+
+Relative time of sa -rect w.r.t non robust = [1.01012444 1.04570818 3.75776577 3.72756052 4.35787082 3.21770358
+ 3.50993562 3.39852476 3.29842734 3.29429674 1.06927395] 
+
+
+
+
+Total time taken by s-rectangular L_1 MDP  is 0.9603836536407471,  relative cost 0.6303145328418679 
+
+s_1: Average distance of last 10 iterates from last one = 0.00026226939385924907, ROC=0.8923668615461823
+
+
+Total time taken by s-rectangular L_2 MDP  is 2.2695016860961914,  relative cost 1.4895087912342404 
+
+s_2: Average distance of last 10 iterates from last one = 0.00020146945735586286, ROC=0.8918699613369643
+
+
+Total time taken by s-rectangular L_3 MDP  is 30.22126817703247,  relative cost 19.834682171736233 
+
+s_3: Average distance of last 10 iterates from last one = 0.00012612378381433588, ROC=0.8906978063175734
+
+
+Total time taken by s-rectangular L_4 MDP  is 30.20468282699585,  relative cost 19.823796951938164 
+
+s_4: Average distance of last 10 iterates from last one = 5.808236504298847e-05, ROC=0.8877217786653441
+
+
+Total time taken by s-rectangular L_5 MDP  is 29.442278146743774,  relative cost 19.32341905811647 
+
+s_5: Average distance of last 10 iterates from last one = 2.0547022494987745e-06, ROC=0.8599290577399141
+
+
+Total time taken by s-rectangular L_6 MDP  is 28.588358879089355,  relative cost 18.762978735922477 
+
+s_6: Average distance of last 10 iterates from last one = 5.509944653931953e-05, ROC=0.8863845895486705
+
+
+Total time taken by s-rectangular L_7 MDP  is 28.081502676010132,  relative cost 18.430321230090552 
+
+s_7: Average distance of last 10 iterates from last one = 0.00010250402076819042, ROC=0.8893302278281606
+
+
+Total time taken by s-rectangular L_8 MDP  is 28.409698963165283,  relative cost 18.645721490845112 
+
+s_8: Average distance of last 10 iterates from last one = 0.0001526158388712062, ROC=0.8910420630799625
+
+
+Total time taken by s-rectangular L_9 MDP  is 29.548771619796753,  relative cost 19.393312359052647 
+
+s_9: Average distance of last 10 iterates from last one = 0.00018089397096048286, ROC=0.8912206620341188
+
+
+Total time taken by s-rectangular L_10 MDP  is 28.791837692260742,  relative cost 18.896525004209252 
+
+s_10: Average distance of last 10 iterates from last one = 0.00021417091959250457, ROC=0.8916658609755272
+
+
+Total time taken by s-rectangular L_inf MDP  is 0.9800739288330078,  relative cost 0.6432375626771719 
+
+s_inf: Average distance of last 10 iterates from last one = 0.00046273948057873326, ROC=0.8926929540862792
+
+
+
+
+
+ Summary of time and relative Time
+
+
+Relative time of s -rect w.r.t non robust = [ 0.63031453  1.48950879 19.83468217 19.82379695 19.32341906 18.76297874
+ 18.43032123 18.64572149 19.39331236 18.896525    0.64323756] 
+
+
+Relative time of sa -rect w.r.t non robust = [0.66296018 0.68631433 2.46627935 2.44645518 2.86013751 2.11182825
+ 2.30362462 2.23050396 2.16480849 2.16209752 0.7017809 ] 
+
+
+
+
+Relative roc of s -rect w.r.t non robust = [0.99971678 0.9991601  0.99784694 0.9945129  0.96337677 0.99301485
+ 0.99631484 0.99823261 0.99843269 0.99893145 1.0000821 ] 
+
+
+Relative roc of sa -rect w.r.t non robust = [0.99968653 0.99901463 0.99691911 0.98494772 0.99257994 0.99646682
+ 0.99789391 0.99863741 0.99910467 0.99942646 1.0000821 ] 
+
+
+
+
+
+
+
+
+
+
+
+ NEW EXPERIMENT 
+
+
+
+
+ state=100,action=20, discount factor=0.9, uncertainty radius=0.1,number of iterations =200
+
+
+Evaluation of non-robust starts for time measurement 
+
+Total time taken by non-robust MDP  is 2.5552546977996826, relative cost 1 
+
+non-robust: Average distance of last 10 iterates from last one = 9.952511348387815e-09, ROC 0.8970172331755851 
+
+Total time taken by sa-rectangular L_1 MDP  is 3.7382867336273193,  relative cost 1.4629800844692076 
+
+sa_1: Average distance of last 10 iterates from last one = 9.007388257487036e-09, ROC =0.8969809601029088
+
+
+Total time taken by sa-rectangular L_2 MDP  is 3.7559475898742676,  relative cost 1.4698916679846028 
+
+sa_2: Average distance of last 10 iterates from last one = 7.433065718487342e-09, ROC =0.8969496569947113
+
+
+Total time taken by sa-rectangular L_3 MDP  is 7.610191345214844,  relative cost 2.9782515816399604 
+
+sa_3: Average distance of last 10 iterates from last one = 5.4818112715793175e-09, ROC =0.8968938436992016
+
+
+Total time taken by sa-rectangular L_4 MDP  is 7.774960041046143,  relative cost 3.0427338800085653 
+
+sa_4: Average distance of last 10 iterates from last one = 3.766249356829121e-09, ROC =0.8967832472642981
+
+
+Total time taken by sa-rectangular L_5 MDP  is 7.669045448303223,  relative cost 3.001284159620957 
+
+sa_5: Average distance of last 10 iterates from last one = 2.3626218315087046e-09, ROC =0.8965688699096432
+
+
+Total time taken by sa-rectangular L_6 MDP  is 7.635605096817017,  relative cost 2.9881972640112937 
+
+sa_6: Average distance of last 10 iterates from last one = 1.2255429615581904e-09, ROC =0.8960651623409999
+
+
+Total time taken by sa-rectangular L_7 MDP  is 7.640981674194336,  relative cost 2.9903013898277724 
+
+sa_7: Average distance of last 10 iterates from last one = 2.957046607576785e-10, ROC =0.8885345613297543
+
+
+Total time taken by sa-rectangular L_8 MDP  is 7.857657194137573,  relative cost 3.075097445629887 
+
+sa_8: Average distance of last 10 iterates from last one = 4.746114612430574e-10, ROC =0.8891326668474868
+
+
+Total time taken by sa-rectangular L_9 MDP  is 8.910685300827026,  relative cost 3.4872004377880508 
+
+sa_9: Average distance of last 10 iterates from last one = 1.1223871609900017e-09, ROC =0.8921394161891327
+
+
+Total time taken by sa-rectangular L_10 MDP  is 12.658995389938354,  relative cost 4.954103166638908 
+
+sa_10: Average distance of last 10 iterates from last one = 1.6750711040458554e-09, ROC =0.8932921834590289
+
+
+Total time taken by sa-rectangular L_inf MDP  is 4.9948203563690186,  relative cost 1.9547250458711745 
+
+sa_inf: Average distance of last 10 iterates from last one = 6.326427559599779e-09, ROC =0.8956218969470578
+
+
+
+
+
+ Summary of time and relative Time
+
+
+non-robust time = 2.5552546977996826,  sa-rect time [ 3.73828673  3.75594759  7.61019135  7.77496004  7.66904545  7.6356051
+  7.64098167  7.85765719  8.9106853  12.65899539  4.99482036] 
+
+Relative time of sa -rect w.r.t non robust = [ 3.73828673  3.75594759  7.61019135  7.77496004  7.66904545  7.6356051
+  7.64098167  7.85765719  8.9106853  12.65899539  4.99482036] 
+
+
+
+
+Total time taken by s-rectangular L_1 MDP  is 3.242316722869873,  relative cost 1.2688820122948277 
+
+s_1: Average distance of last 10 iterates from last one = 9.071495199464152e-09, ROC=0.8969823517754442
+
+
+Total time taken by s-rectangular L_2 MDP  is 5.339061260223389,  relative cost 2.0894438682847656 
+
+s_2: Average distance of last 10 iterates from last one = 7.739679475093908e-09, ROC=0.8969504597132429
+
+
+Total time taken by s-rectangular L_3 MDP  is 95.32408833503723,  relative cost 37.305122036218286 
+
+s_3: Average distance of last 10 iterates from last one = 6.132483321152904e-09, ROC=0.8968912105605351
+
+
+Total time taken by s-rectangular L_4 MDP  is 89.28439950942993,  relative cost 34.94148727573509 
+
+s_4: Average distance of last 10 iterates from last one = 4.677819021026153e-09, ROC=0.8967992822923155
+
+
+Total time taken by s-rectangular L_5 MDP  is 96.7976803779602,  relative cost 37.88181290159146 
+
+s_5: Average distance of last 10 iterates from last one = 3.4230568601856247e-09, ROC=0.8966593255034138
+
+
+Total time taken by s-rectangular L_6 MDP  is 93.95458817481995,  relative cost 36.76916757289353 
+
+s_6: Average distance of last 10 iterates from last one = 2.3480367872252827e-09, ROC=0.8964271619293448
+
+
+Total time taken by s-rectangular L_7 MDP  is 93.68636298179626,  relative cost 36.6641975308642 
+
+s_7: Average distance of last 10 iterates from last one = 1.4266972714338521e-09, ROC=0.8959825313321342
+
+
+Total time taken by s-rectangular L_8 MDP  is 93.20250129699707,  relative cost 36.47483805714291 
+
+s_8: Average distance of last 10 iterates from last one = 6.331064339448744e-10, ROC=0.8935494284441534
+
+
+Total time taken by s-rectangular L_9 MDP  is 94.75680351257324,  relative cost 37.08311488250774 
+
+s_9: Average distance of last 10 iterates from last one = 5.387765789066634e-11, ROC=0.8801453351692258
+
+
+Total time taken by s-rectangular L_10 MDP  is 93.156170129776,  relative cost 36.456706335377184 
+
+s_10: Average distance of last 10 iterates from last one = 6.533338314795856e-10, ROC=0.8905759635882711
+
+
+Total time taken by s-rectangular L_inf MDP  is 3.5855963230133057,  relative cost 1.4032246280970915 
+
+s_inf: Average distance of last 10 iterates from last one = 6.326427559599779e-09, ROC=0.8956218969470578
+
+
+
+
+
+ Summary of time and relative Time
+
+
+Relative time of s -rect w.r.t non robust = [ 1.26888201  2.08944387 37.30512204 34.94148728 37.8818129  36.76916757
+ 36.66419753 36.47483806 37.08311488 36.45670634  1.40322463] 
+
+
+Relative time of sa -rect w.r.t non robust = [1.46298008 1.46989167 2.97825158 3.04273388 3.00128416 2.98819726
+ 2.99030139 3.07509745 3.48720044 4.95410317 1.95472505] 
+
+
+
+
+Relative roc of s -rect w.r.t non robust = [0.99996111 0.99992556 0.99985951 0.99975703 0.999601   0.99934219
+ 0.99884651 0.99613407 0.98119111 0.99281924 0.99844447] 
+
+
+Relative roc of sa -rect w.r.t non robust = [0.99995956 0.99992467 0.99986244 0.99973915 0.99950016 0.99893863
+ 0.99054347 0.99121024 0.99456218 0.99584729 0.99844447] 
+
+
+
+
+
+
+
+
+
+
+
+ NEW EXPERIMENT 
+
+
+
+
+ state=10,action=10, discount factor=0.9, uncertainty radius=0.1,number of iterations =100
+
+
+Evaluation of non-robust starts for time measurement 
+
+Total time taken by non-robust MDP  is 0.07230091094970703, relative cost 1 
+
+non-robust: Average distance of last 10 iterates from last one = 0.00032500279732232683, ROC 0.8940309643472488 
+
+Total time taken by sa-rectangular L_1 MDP  is 0.12857270240783691,  relative cost 1.7782998957962355 
+
+sa_1: Average distance of last 10 iterates from last one = 0.00029379043553756645, ROC =0.8939839682171424
+
+
+Total time taken by sa-rectangular L_2 MDP  is 0.10953974723815918,  relative cost 1.5150534868690066 
+
+sa_2: Average distance of last 10 iterates from last one = 0.00028542370611450707, ROC =0.8939965629647938
+
+
+Total time taken by sa-rectangular L_3 MDP  is 0.3677058219909668,  relative cost 5.085770250484745 
+
+sa_3: Average distance of last 10 iterates from last one = 0.00027918607231676164, ROC =0.8940079107437551
+
+
+Total time taken by sa-rectangular L_4 MDP  is 0.45324230194091797,  relative cost 6.268832522126812 
+
+sa_4: Average distance of last 10 iterates from last one = 0.0002751832031808732, ROC =0.8940176645997355
+
+
+Total time taken by sa-rectangular L_5 MDP  is 0.395770788192749,  relative cost 5.473939166106077 
+
+sa_5: Average distance of last 10 iterates from last one = 0.0002725361820361982, ROC =0.8940263227424082
+
+
+Total time taken by sa-rectangular L_6 MDP  is 0.4715309143066406,  relative cost 6.521783862925884 
+
+sa_6: Average distance of last 10 iterates from last one = 0.0002706544776907904, ROC =0.8940332448160708
+
+
+Total time taken by sa-rectangular L_7 MDP  is 0.3741929531097412,  relative cost 5.175494308364001 
+
+sa_7: Average distance of last 10 iterates from last one = 0.0002692448329078445, ROC =0.8940386843818621
+
+
+Total time taken by sa-rectangular L_8 MDP  is 0.38144993782043457,  relative cost 5.275866276232309 
+
+sa_8: Average distance of last 10 iterates from last one = 0.0002681484231334963, ROC =0.8940430138162719
+
+
+Total time taken by sa-rectangular L_9 MDP  is 0.4826688766479492,  relative cost 6.675833959874955 
+
+sa_9: Average distance of last 10 iterates from last one = 0.000267270575658074, ROC =0.8940465190323346
+
+
+Total time taken by sa-rectangular L_10 MDP  is 0.40201306343078613,  relative cost 5.5602766016382414 
+
+sa_10: Average distance of last 10 iterates from last one = 0.00026655154978794116, ROC =0.8940494099081122
+
+
+Total time taken by sa-rectangular L_inf MDP  is 0.11437201499938965,  relative cost 1.5818889900149051 
+
+sa_inf: Average distance of last 10 iterates from last one = 0.0002596396070462248, ROC =0.8940850437877044
+
+
+
+
+
+ Summary of time and relative Time
+
+
+non-robust time = 0.07230091094970703,  sa-rect time [0.1285727  0.10953975 0.36770582 0.4532423  0.39577079 0.47153091
+ 0.37419295 0.38144994 0.48266888 0.40201306 0.11437201] 
+
+Relative time of sa -rect w.r.t non robust = [0.1285727  0.10953975 0.36770582 0.4532423  0.39577079 0.47153091
+ 0.37419295 0.38144994 0.48266888 0.40201306 0.11437201] 
+
+
+
+
+Total time taken by s-rectangular L_1 MDP  is 0.10247135162353516,  relative cost 1.4172899107013308 
+
+s_1: Average distance of last 10 iterates from last one = 0.00029770504395827403, ROC=0.8940059979396437
+
+
+Total time taken by s-rectangular L_2 MDP  is 0.19055938720703125,  relative cost 2.6356429636078245 
+
+s_2: Average distance of last 10 iterates from last one = 0.00028790070410860124, ROC=0.8940093069516989
+
+
+Total time taken by s-rectangular L_3 MDP  is 3.4566056728363037,  relative cost 47.80860472478335 
+
+s_3: Average distance of last 10 iterates from last one = 0.00028103502457774707, ROC=0.894017602624746
+
+
+Total time taken by s-rectangular L_4 MDP  is 2.4720370769500732,  relative cost 34.19095339849366 
+
+s_4: Average distance of last 10 iterates from last one = 0.0002766089456592624, ROC=0.8940253995263373
+
+
+Total time taken by s-rectangular L_5 MDP  is 2.4078011512756348,  relative cost 33.30250089034862 
+
+s_5: Average distance of last 10 iterates from last one = 0.0002736656507959623, ROC=0.8940327359869006
+
+
+Total time taken by s-rectangular L_6 MDP  is 2.431126117706299,  relative cost 33.62511046918075 
+
+s_6: Average distance of last 10 iterates from last one = 0.0002715698837981506, ROC=0.894038668535562
+
+
+Total time taken by s-rectangular L_7 MDP  is 2.519839286804199,  relative cost 34.8521097964729 
+
+s_7: Average distance of last 10 iterates from last one = 0.0002700004114675636, ROC=0.8940433140659984
+
+
+Total time taken by s-rectangular L_8 MDP  is 2.4675469398498535,  relative cost 34.128849933388736 
+
+s_8: Average distance of last 10 iterates from last one = 0.0002687806294442652, ROC=0.8940469774153699
+
+
+Total time taken by s-rectangular L_9 MDP  is 2.659578323364258,  relative cost 36.784852202128924 
+
+s_9: Average distance of last 10 iterates from last one = 0.0002678051294989103, ROC=0.8940499144775471
+
+
+Total time taken by s-rectangular L_10 MDP  is 2.4286863803863525,  relative cost 33.59136625644678 
+
+s_10: Average distance of last 10 iterates from last one = 0.00026700887884825166, ROC=0.8940523587531828
+
+
+Total time taken by s-rectangular L_inf MDP  is 0.10242390632629395,  relative cost 1.4166336907918167 
+
+s_inf: Average distance of last 10 iterates from last one = 0.0002596396070462248, ROC=0.8940850437877044
+
+
+
+
+
+ Summary of time and relative Time
+
+
+Relative time of s -rect w.r.t non robust = [ 1.41728991  2.63564296 47.80860472 34.1909534  33.30250089 33.62511047
+ 34.8521098  34.12884993 36.7848522  33.59136626  1.41663369] 
+
+
+Relative time of sa -rect w.r.t non robust = [1.7782999  1.51505349 5.08577025 6.26883252 5.47393917 6.52178386
+ 5.17549431 5.27586628 6.67583396 5.5602766  1.58188899] 
+
+
+
+
+Relative roc of s -rect w.r.t non robust = [0.99997207 0.99997578 0.99998505 0.99999378 1.00000198 1.00000862
+ 1.00001381 1.00001791 1.0000212  1.00002393 1.00006049] 
+
+
+Relative roc of sa -rect w.r.t non robust = [0.99994743 0.99996152 0.99997421 0.99998512 0.99999481 1.00000255
+ 1.00000864 1.00001348 1.0000174  1.00002063 1.00006049] 
+
+
+
+
+
+
+
+
+
+
+
+ NEW EXPERIMENT 
+
+
+
+
+ state=20,action=20, discount factor=0.9, uncertainty radius=0.1,number of iterations =100
+
+
+Evaluation of non-robust starts for time measurement 
+
+Total time taken by non-robust MDP  is 0.25913572311401367, relative cost 1 
+
+non-robust: Average distance of last 10 iterates from last one = 0.0003849767595514919, ROC 0.8941988321305435 
+
+Total time taken by sa-rectangular L_1 MDP  is 0.3828880786895752,  relative cost 1.4775580691401369 
+
+sa_1: Average distance of last 10 iterates from last one = 0.000335371222719516, ROC =0.8940787799195798
+
+
+Total time taken by sa-rectangular L_2 MDP  is 0.38373589515686035,  relative cost 1.480829777328792 
+
+sa_2: Average distance of last 10 iterates from last one = 0.00031080210835394696, ROC =0.894068719582779
+
+
+Total time taken by sa-rectangular L_3 MDP  is 0.9168028831481934,  relative cost 3.5379255014748447 
+
+sa_3: Average distance of last 10 iterates from last one = 0.0002877179239682448, ROC =0.8940619963092498
+
+
+Total time taken by sa-rectangular L_4 MDP  is 0.9223260879516602,  relative cost 3.5592394474530176 
+
+sa_4: Average distance of last 10 iterates from last one = 0.0002686368785710158, ROC =0.8940389497023457
+
+
+Total time taken by sa-rectangular L_5 MDP  is 0.9101803302764893,  relative cost 3.512369191475894 
+
+sa_5: Average distance of last 10 iterates from last one = 0.00025201123493214796, ROC =0.8940005161311171
+
+
+Total time taken by sa-rectangular L_6 MDP  is 0.9094667434692383,  relative cost 3.5096154730820115 
+
+sa_6: Average distance of last 10 iterates from last one = 0.00023859740946186037, ROC =0.8939601978069248
+
+
+Total time taken by sa-rectangular L_7 MDP  is 0.9033668041229248,  relative cost 3.4860759190868658 
+
+sa_7: Average distance of last 10 iterates from last one = 0.0002281262869432865, ROC =0.8939263094264478
+
+
+Total time taken by sa-rectangular L_8 MDP  is 0.9032816886901855,  relative cost 3.4857474601939105 
+
+sa_8: Average distance of last 10 iterates from last one = 0.0002199563193364895, ROC =0.8938990764887851
+
+
+Total time taken by sa-rectangular L_9 MDP  is 0.9180262088775635,  relative cost 3.542646293014774 
+
+sa_9: Average distance of last 10 iterates from last one = 0.00021343447354755797, ROC =0.8938764171921226
+
+
+Total time taken by sa-rectangular L_10 MDP  is 0.9171009063720703,  relative cost 3.53907556762665 
+
+sa_10: Average distance of last 10 iterates from last one = 0.00020807846237289596, ROC =0.8938565672687646
+
+
+Total time taken by sa-rectangular L_inf MDP  is 0.37917518615722656,  relative cost 1.4632300849944888 
+
+sa_inf: Average distance of last 10 iterates from last one = 0.00018910824617570653, ROC =0.8940048324261893
+
+
+
+
+
+ Summary of time and relative Time
+
+
+non-robust time = 0.25913572311401367,  sa-rect time [0.38288808 0.3837359  0.91680288 0.92232609 0.91018033 0.90946674
+ 0.9033668  0.90328169 0.91802621 0.91710091 0.37917519] 
+
+Relative time of sa -rect w.r.t non robust = [0.38288808 0.3837359  0.91680288 0.92232609 0.91018033 0.90946674
+ 0.9033668  0.90328169 0.91802621 0.91710091 0.37917519] 
+
+
+
+
+Total time taken by s-rectangular L_1 MDP  is 0.3014976978302002,  relative cost 1.1634740830292558 
+
+s_1: Average distance of last 10 iterates from last one = 0.00034264608959588827, ROC=0.8941181031179753
+
+
+Total time taken by s-rectangular L_2 MDP  is 0.49649858474731445,  relative cost 1.9159789271078873 
+
+s_2: Average distance of last 10 iterates from last one = 0.00031921759640916034, ROC=0.8941069931297662
+
+
+Total time taken by s-rectangular L_3 MDP  is 8.980023622512817,  relative cost 34.653746363490825 
+
+s_3: Average distance of last 10 iterates from last one = 0.00029691616009159817, ROC=0.894098125926221
+
+
+Total time taken by s-rectangular L_4 MDP  is 8.908992767333984,  relative cost 34.37963959686961 
+
+s_4: Average distance of last 10 iterates from last one = 0.00027715838894479814, ROC=0.8940733589412915
+
+
+Total time taken by s-rectangular L_5 MDP  is 9.556558847427368,  relative cost 36.87858521622164 
+
+s_5: Average distance of last 10 iterates from last one = 0.0002597182043157176, ROC=0.894036127945415
+
+
+Total time taken by s-rectangular L_6 MDP  is 9.377106189727783,  relative cost 36.18608070336206 
+
+s_6: Average distance of last 10 iterates from last one = 0.00024554627656350194, ROC=0.893998086530275
+
+
+Total time taken by s-rectangular L_7 MDP  is 9.43745756149292,  relative cost 36.41897553947303 
+
+s_7: Average distance of last 10 iterates from last one = 0.00023437437003757112, ROC=0.8939654148197718
+
+
+Total time taken by s-rectangular L_8 MDP  is 9.392397403717041,  relative cost 36.24508921753179 
+
+s_8: Average distance of last 10 iterates from last one = 0.00022533482717541632, ROC=0.8939353494391996
+
+
+Total time taken by s-rectangular L_9 MDP  is 9.405009508132935,  relative cost 36.29375909702326 
+
+s_9: Average distance of last 10 iterates from last one = 0.00021804216353906724, ROC=0.893909923686977
+
+
+Total time taken by s-rectangular L_10 MDP  is 9.492571830749512,  relative cost 36.63166049311156 
+
+s_10: Average distance of last 10 iterates from last one = 0.00021205430136639336, ROC=0.8938878507535363
+
+
+Total time taken by s-rectangular L_inf MDP  is 0.37337684631347656,  relative cost 1.4408543979449697 
+
+s_inf: Average distance of last 10 iterates from last one = 0.00018910824617570653, ROC=0.8940048324261893
+
+
+
+
+
+ Summary of time and relative Time
+
+
+Relative time of s -rect w.r.t non robust = [ 1.16347408  1.91597893 34.65374636 34.3796396  36.87858522 36.1860807
+ 36.41897554 36.24508922 36.2937591  36.63166049  1.4408544 ] 
+
+
+Relative time of sa -rect w.r.t non robust = [1.47755807 1.48082978 3.5379255  3.55923945 3.51236919 3.50961547
+ 3.48607592 3.48574746 3.54264629 3.53907557 1.46323008] 
+
+
+
+
+Relative roc of s -rect w.r.t non robust = [0.99990972 0.99989729 0.99988738 0.99985968 0.99981804 0.9997755
+ 0.99973896 0.99970534 0.99967691 0.99965222 0.99978305] 
+
+
+Relative roc of sa -rect w.r.t non robust = [0.99986574 0.99985449 0.99984697 0.9998212  0.99977822 0.99973313
+ 0.99969523 0.99966478 0.99963944 0.99961724 0.99978305] 
+
+
+
+
+
+
+
+
+
+
+
+ NEW EXPERIMENT 
+
+
+
+
+ state=30,action=10, discount factor=0.9, uncertainty radius=0.1,number of iterations =100
+
+
+Evaluation of non-robust starts for time measurement 
+
+Total time taken by non-robust MDP  is 0.2159585952758789, relative cost 1 
+
+non-robust: Average distance of last 10 iterates from last one = 0.00032938658278673926, ROC 0.8937205329216504 
+
+Total time taken by sa-rectangular L_1 MDP  is 0.2991750240325928,  relative cost 1.385335108567492 
+
+sa_1: Average distance of last 10 iterates from last one = 0.0002883397734168014, ROC =0.8935783051653813
+
+
+Total time taken by sa-rectangular L_2 MDP  is 0.310457706451416,  relative cost 1.4375797640969932 
+
+sa_2: Average distance of last 10 iterates from last one = 0.00025641853015638815, ROC =0.8934961455348724
+
+
+Total time taken by sa-rectangular L_3 MDP  is 0.9384877681732178,  relative cost 4.345683796351496 
+
+sa_3: Average distance of last 10 iterates from last one = 0.0002247342579932976, ROC =0.8933763128503888
+
+
+Total time taken by sa-rectangular L_4 MDP  is 0.961806058883667,  relative cost 4.453659543650005 
+
+sa_4: Average distance of last 10 iterates from last one = 0.0002010261672520386, ROC =0.8932619497102307
+
+
+Total time taken by sa-rectangular L_5 MDP  is 1.0621833801269531,  relative cost 4.918458460845488 
+
+sa_5: Average distance of last 10 iterates from last one = 0.00018317172060147157, ROC =0.8931530753437366
+
+
+Total time taken by sa-rectangular L_6 MDP  is 0.9389729499816895,  relative cost 4.347930439083414 
+
+sa_6: Average distance of last 10 iterates from last one = 0.00016950181114978592, ROC =0.8930535579457312
+
+
+Total time taken by sa-rectangular L_7 MDP  is 1.1435341835021973,  relative cost 5.295154758908187 
+
+sa_7: Average distance of last 10 iterates from last one = 0.00015882820656578644, ROC =0.8929647556462331
+
+
+Total time taken by sa-rectangular L_8 MDP  is 1.5956010818481445,  relative cost 7.388458328365327 
+
+sa_8: Average distance of last 10 iterates from last one = 0.00015031441692183733, ROC =0.8928859205960267
+
+
+Total time taken by sa-rectangular L_9 MDP  is 1.051828145980835,  relative cost 4.870508370538179 
+
+sa_9: Average distance of last 10 iterates from last one = 0.00014338632742463275, ROC =0.8928158696913024
+
+
+Total time taken by sa-rectangular L_10 MDP  is 1.1444501876831055,  relative cost 5.29939633206594 
+
+sa_10: Average distance of last 10 iterates from last one = 0.00013764593516985002, ROC =0.8927533316945929
+
+
+Total time taken by sa-rectangular L_inf MDP  is 0.32094621658325195,  relative cost 1.4861469911547411 
+
+sa_inf: Average distance of last 10 iterates from last one = 7.852104873622423e-05, ROC =0.8917157002691033
+
+
+
+
+
+ Summary of time and relative Time
+
+
+non-robust time = 0.2159585952758789,  sa-rect time [0.29917502 0.31045771 0.93848777 0.96180606 1.06218338 0.93897295
+ 1.14353418 1.59560108 1.05182815 1.14445019 0.32094622] 
+
+Relative time of sa -rect w.r.t non robust = [0.29917502 0.31045771 0.93848777 0.96180606 1.06218338 0.93897295
+ 1.14353418 1.59560108 1.05182815 1.14445019 0.32094622] 
+
+
+
+
+Total time taken by s-rectangular L_1 MDP  is 0.34243130683898926,  relative cost 1.5856340721310318 
+
+s_1: Average distance of last 10 iterates from last one = 0.00029235529476299147, ROC=0.8936091818617764
+
+
+Total time taken by s-rectangular L_2 MDP  is 0.6093580722808838,  relative cost 2.8216430631179645 
+
+s_2: Average distance of last 10 iterates from last one = 0.0002617304853380631, ROC=0.8935267397775891
+
+
+Total time taken by s-rectangular L_3 MDP  is 9.860686779022217,  relative cost 45.66008019465752 
+
+s_3: Average distance of last 10 iterates from last one = 0.00023105101517799652, ROC=0.8934131337645936
+
+
+Total time taken by s-rectangular L_4 MDP  is 15.94883131980896,  relative cost 73.85133849122761 
+
+s_4: Average distance of last 10 iterates from last one = 0.0002075499107430545, ROC=0.893305669853207
+
+
+Total time taken by s-rectangular L_5 MDP  is 19.271899938583374,  relative cost 89.23886504245989 
+
+s_5: Average distance of last 10 iterates from last one = 0.00018949645407921877, ROC=0.8932038313838067
+
+
+Total time taken by s-rectangular L_6 MDP  is 15.54382610321045,  relative cost 71.9759548507611 
+
+s_6: Average distance of last 10 iterates from last one = 0.00017539244600506265, ROC=0.8931087547308647
+
+
+Total time taken by s-rectangular L_7 MDP  is 14.514302492141724,  relative cost 67.20872801381327 
+
+s_7: Average distance of last 10 iterates from last one = 0.00016419752696368307, ROC=0.8930219996178933
+
+
+Total time taken by s-rectangular L_8 MDP  is 18.085589170455933,  relative cost 83.74563257068921 
+
+s_8: Average distance of last 10 iterates from last one = 0.00015515926354314757, ROC=0.8929435327111886
+
+
+Total time taken by s-rectangular L_9 MDP  is 16.326257467269897,  relative cost 75.5990167764044 
+
+s_9: Average distance of last 10 iterates from last one = 0.00014789963264476568, ROC=0.8928788584349713
+
+
+Total time taken by s-rectangular L_10 MDP  is 16.882851362228394,  relative cost 78.17633440642264 
+
+s_10: Average distance of last 10 iterates from last one = 0.00014156975188193144, ROC=0.8928090536308851
+
+
+Total time taken by s-rectangular L_inf MDP  is 0.6579718589782715,  relative cost 3.0467500408480497 
+
+s_inf: Average distance of last 10 iterates from last one = 7.852104873622423e-05, ROC=0.8917157002691033
+
+
+
+
+
+ Summary of time and relative Time
+
+
+Relative time of s -rect w.r.t non robust = [ 1.58563407  2.82164306 45.66008019 73.85133849 89.23886504 71.97595485
+ 67.20872801 83.74563257 75.59901678 78.17633441  3.04675004] 
+
+
+Relative time of sa -rect w.r.t non robust = [1.38533511 1.43757976 4.3456838  4.45365954 4.91845846 4.34793044
+ 5.29515476 7.38845833 4.87050837 5.29939633 1.48614699] 
+
+
+
+
+Relative roc of s -rect w.r.t non robust = [0.99987541 0.99978316 0.99965605 0.9995358  0.99942185 0.99931547
+ 0.9992184  0.9991306  0.99905824 0.99898013 0.99775676] 
+
+
+Relative roc of sa -rect w.r.t non robust = [0.99984086 0.99974893 0.99961485 0.99948688 0.99936506 0.99925371
+ 0.99915435 0.99906614 0.99898776 0.99891778 0.99775676] 
+
+
+
+
+
+
+
+
+
+
+
+ NEW EXPERIMENT 
+
+
+
+
+ state=50,action=10, discount factor=0.9, uncertainty radius=0.1,number of iterations =100
+
+
+Evaluation of non-robust starts for time measurement 
+
+Total time taken by non-robust MDP  is 0.3632328510284424, relative cost 1 
+
+non-robust: Average distance of last 10 iterates from last one = 0.0003129465439258183, ROC 0.8931667407577801 
+
+Total time taken by sa-rectangular L_1 MDP  is 0.5624308586120605,  relative cost 1.5484030616163083 
+
+sa_1: Average distance of last 10 iterates from last one = 0.00027321073143085075, ROC =0.8930046488507519
+
+
+Total time taken by sa-rectangular L_2 MDP  is 0.695216178894043,  relative cost 1.9139683454446281 
+
+sa_2: Average distance of last 10 iterates from last one = 0.0002299472116991552, ROC =0.8928371786656601
+
+
+Total time taken by sa-rectangular L_3 MDP  is 1.512559175491333,  relative cost 4.164158531390362 
+
+sa_3: Average distance of last 10 iterates from last one = 0.00017941849316231994, ROC =0.8925325348540281
+
+
+Total time taken by sa-rectangular L_4 MDP  is 1.5275945663452148,  relative cost 4.2055517886668214 
+
+sa_4: Average distance of last 10 iterates from last one = 0.0001391710278968894, ROC =0.8921413749177616
+
+
+Total time taken by sa-rectangular L_5 MDP  is 1.5050525665283203,  relative cost 4.143492424396574 
+
+sa_5: Average distance of last 10 iterates from last one = 0.000107786464347992, ROC =0.8916413601400451
+
+
+Total time taken by sa-rectangular L_6 MDP  is 1.5296673774719238,  relative cost 4.2112583516080315 
+
+sa_6: Average distance of last 10 iterates from last one = 8.286690273857644e-05, ROC =0.8909962467586598
+
+
+Total time taken by sa-rectangular L_7 MDP  is 1.510634183883667,  relative cost 4.15885892370836 
+
+sa_7: Average distance of last 10 iterates from last one = 6.279506622710595e-05, ROC =0.8901610853910926
+
+
+Total time taken by sa-rectangular L_8 MDP  is 1.5131359100341797,  relative cost 4.165746313280723 
+
+sa_8: Average distance of last 10 iterates from last one = 4.642891291253282e-05, ROC =0.8890600047761834
+
+
+Total time taken by sa-rectangular L_9 MDP  is 1.502448558807373,  relative cost 4.136323448040018 
+
+sa_9: Average distance of last 10 iterates from last one = 3.2885559734233126e-05, ROC =0.8875388589251232
+
+
+Total time taken by sa-rectangular L_10 MDP  is 1.5101470947265625,  relative cost 4.157517940491326 
+
+sa_10: Average distance of last 10 iterates from last one = 2.153014767569683e-05, ROC =0.885229988135681
+
+
+Total time taken by sa-rectangular L_inf MDP  is 0.4988994598388672,  relative cost 1.3734976294856152 
+
+sa_inf: Average distance of last 10 iterates from last one = 9.682840194482622e-05, ROC =0.8884479299067622
+
+
+
+
+
+ Summary of time and relative Time
+
+
+non-robust time = 0.3632328510284424,  sa-rect time [0.56243086 0.69521618 1.51255918 1.52759457 1.50505257 1.52966738
+ 1.51063418 1.51313591 1.50244856 1.51014709 0.49889946] 
+
+Relative time of sa -rect w.r.t non robust = [0.56243086 0.69521618 1.51255918 1.52759457 1.50505257 1.52966738
+ 1.51063418 1.51313591 1.50244856 1.51014709 0.49889946] 
+
+
+
+
+Total time taken by s-rectangular L_1 MDP  is 0.4388241767883301,  relative cost 1.2081070738669741 
+
+s_1: Average distance of last 10 iterates from last one = 0.0002763218493562647, ROC=0.892966674714348
+
+
+Total time taken by s-rectangular L_2 MDP  is 0.90450119972229,  relative cost 2.4901415088456975 
+
+s_2: Average distance of last 10 iterates from last one = 0.00023733708308704138, ROC=0.8927882964110292
+
+
+Total time taken by s-rectangular L_3 MDP  is 13.596503973007202,  relative cost 37.43192262073936 
+
+s_3: Average distance of last 10 iterates from last one = 0.00019141416630681364, ROC=0.8924849189060093
+
+
+Total time taken by s-rectangular L_4 MDP  is 13.479087352752686,  relative cost 37.10866821265907 
+
+s_4: Average distance of last 10 iterates from last one = 0.00015361358793093417, ROC=0.8921256748210218
+
+
+Total time taken by s-rectangular L_5 MDP  is 14.609979629516602,  relative cost 40.222076797708446 
+
+s_5: Average distance of last 10 iterates from last one = 0.00012303329301435184, ROC=0.8916922467240035
+
+
+Total time taken by s-rectangular L_6 MDP  is 15.441405296325684,  relative cost 42.5110373486471 
+
+s_6: Average distance of last 10 iterates from last one = 9.797326651437289e-05, ROC=0.8911582645473064
+
+
+Total time taken by s-rectangular L_7 MDP  is 15.830076217651367,  relative cost 43.58106975410057 
+
+s_7: Average distance of last 10 iterates from last one = 7.719823580414343e-05, ROC=0.8904924535202163
+
+
+Total time taken by s-rectangular L_8 MDP  is 14.36485767364502,  relative cost 39.54724258274812 
+
+s_8: Average distance of last 10 iterates from last one = 5.982877797134911e-05, ROC=0.8896505450812514
+
+
+Total time taken by s-rectangular L_9 MDP  is 14.270309448242188,  relative cost 39.28694612240558 
+
+s_9: Average distance of last 10 iterates from last one = 4.5169687343560304e-05, ROC=0.8885531895625168
+
+
+Total time taken by s-rectangular L_10 MDP  is 14.920988321304321,  relative cost 41.07830081738933 
+
+s_10: Average distance of last 10 iterates from last one = 3.270014737539739e-05, ROC=0.8870616145627984
+
+
+Total time taken by s-rectangular L_inf MDP  is 0.8173074722290039,  relative cost 2.2500923854076347 
+
+s_inf: Average distance of last 10 iterates from last one = 9.682840194482622e-05, ROC=0.8884479299067622
+
+
+
+
+
+ Summary of time and relative Time
+
+
+Relative time of s -rect w.r.t non robust = [ 1.20810707  2.49014151 37.43192262 37.10866821 40.2220768  42.51103735
+ 43.58106975 39.54724258 39.28694612 41.07830082  2.25009239] 
+
+
+Relative time of sa -rect w.r.t non robust = [1.54840306 1.91396835 4.16415853 4.20555179 4.14349242 4.21125835
+ 4.15885892 4.16574631 4.13632345 4.15751794 1.37349763] 
+
+
+
+
+Relative roc of s -rect w.r.t non robust = [0.999776   0.99957629 0.99923662 0.99883441 0.99834914 0.99775129
+ 0.99700584 0.99606323 0.99483461 0.99316463 0.99471676] 
+
+
+Relative roc of sa -rect w.r.t non robust = [0.99981852 0.99963102 0.99928994 0.99885199 0.99829217 0.99756989
+ 0.99663483 0.99540205 0.99369896 0.99111392 0.99471676] 
+
+
+
+
+
+
+
+
+
+
+
+ NEW EXPERIMENT 
+
+
